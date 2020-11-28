@@ -1,1 +1,1 @@
-# streamlit-demo
+# streamlit-demo [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/thulith95/streamlit-demo/main/app.py)
